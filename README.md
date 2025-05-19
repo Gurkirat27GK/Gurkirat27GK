@@ -39,6 +39,6 @@ I'm actively looking for opportunities to:
 
 ## 🌐 Connect with Me
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/sunikhil-thakur](https://www.linkedin.com/in/gurkirat-singh-b8a363275/))  
-- 🌍 [Portfolio]([https://your-portfolio-link.vercel.app](https://portfolio-8zp6.vercel.app/))  
-- 🧠 [LeetCode]([https://leetcode.com/your-username](https://leetcode.com/u/gurkirat2730/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sunikhil-thakur](https://www.linkedin.com/in/gurkirat-singh-b8a363275/)  
+- 🌍 [Portfolio](https://your-portfolio-link.vercel.app](https://portfolio-8zp6.vercel.app/)  
+- 🧠 [LeetCode](https://leetcode.com/your-username](https://leetcode.com/u/gurkirat2730/)  
