@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hello, I'm Gurkirat Singh
 
-<!--
-**Gurkirat27GK/Gurkirat27GK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m a dedicated **Computer Science undergraduate** at **Chitkara University, Punjab**, currently pursuing a **B.E. in CSE**.
 
-Here are some ideas to get you started:
+With strong proficiency in **Java**, I have a solid foundation in **Data Structures and Algorithms**, which fuels my passion for **problem-solving** and writing **efficient code**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Full-Stack Web Development Enthusiast
+
+My development journey extends into full-stack web development, where I’ve gained hands-on experience with the **MERN stack**:
+
+- **MongoDB**
+- **Express.js**
+- **React.js**
+- **Node.js**
+
+I enjoy building **scalable**, **dynamic**, and **user-friendly** web applications and continuously explore new technologies to expand my skill set.
+
+---
+
+## 🚀 What Drives Me
+
+I’m committed to **continuous learning** and actively stay updated with **emerging tech trends**.  
+I love integrating **modern tools**, **libraries**, and **frameworks** into my projects and thrive in **dynamic environments** that encourage **creativity**, **innovation**, and a deep understanding of **programming fundamentals**.
+
+---
+
+## 🔍 Currently Seeking
+
+I'm actively looking for opportunities to:
+
+- Apply my skills to **real-world projects**
+- Work with **innovative teams**
+- Take on **challenging tasks** that push my limits
+- Contribute to **impactful software solutions**
+
+---
+
+## 🌐 Connect with Me
+
+- 💼 [LinkedIn]([https://www.linkedin.com/in/sunikhil-thakur](https://www.linkedin.com/in/gurkirat-singh-b8a363275/))  
+- 🌍 [Portfolio]([https://your-portfolio-link.vercel.app](https://portfolio-8zp6.vercel.app/))  
+- 🧠 [LeetCode]([https://leetcode.com/your-username](https://leetcode.com/u/gurkirat2730/))  
