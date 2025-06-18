@@ -26,17 +26,6 @@ I love integrating **modern tools**, **libraries**, and **frameworks** into my p
 
 ---
 
-## 🔍 Currently Seeking
-
-I'm actively looking for opportunities to:
-
-- Apply my skills to **real-world projects**
-- Work with **innovative teams**
-- Take on **challenging tasks** that push my limits
-- Contribute to **impactful software solutions**
-
----
-
 ## 🌐 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/gurkirat-singh-b8a363275/)  
